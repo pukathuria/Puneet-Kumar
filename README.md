@@ -43,12 +43,15 @@ Below are some of my most recent projects
 * [World Time Flutter App](https://github.com/kmanadkat/flutter-world-time-app)
 * [Learning Blockchain Fundamentals - Js](https://github.com/kmanadkat/learn-blockchain)
 
-Few other interesting ones with OpenCV, Flask, Hapi Js, Node Express could also be found.
+Expert Skill : iOS, Swift, Objective C, Backbase
 
+Worked on Fintech, Food & Beverage, Healthcare and Aviation industry projects. I always eager to solve complex problems. 
+
+Good Hands on Data structure and Algorithms. Love to code which can be used to real world problem solution.
 
 ## 📫 Get in touch
 
-- LinkedIn - [Krupesh Anadkat](https://www.linkedin.com/in/puneetkumarkathuria/)
+- LinkedIn - [Puneet Kumar](https://www.linkedin.com/in/puneetkumarkathuria/)
 
  or hit my mailbox on [mail](mailto:puneetkathuria@yahoo.com)
  

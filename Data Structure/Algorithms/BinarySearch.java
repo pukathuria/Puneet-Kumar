@@ -7,7 +7,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         int [] arr = new int[]{1,2,3,4,5,6,7,8,9,10};
-        search(arr,2,0,9);
+        search(arr,5,0,9);
     }
 
     /**

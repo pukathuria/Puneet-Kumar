@@ -19,6 +19,6 @@ func binarySearch<T: Comparable>(_ array: [T], searchElement: T) -> Int? {
     return nil
 }
 
-let numbers = [23,43,56,67,85,35,27,16,84,93,79,17,78,40,72]
+let numbers = [4,12,23,38,43,56,67,77,85,98]
 
-binarySearch(numbers, searchElement: 16)
+binarySearch(numbers, searchElement: 85)

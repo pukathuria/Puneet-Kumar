@@ -38,6 +38,8 @@ Below are some of my most recent projects
 * [Binary Search](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/BinarySearch.playground)
 * [Binary Search Recursive](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/BinarySearchRecursive.playground)
 
+* [Linear Search](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/LinearSearch.playground)
+
 Expert Skill : iOS, Swift, Objective C, Backbase
 
 Worked on Fintech, Food & Beverage, Healthcare and Aviation industry projects. I always eager to solve complex problems. 

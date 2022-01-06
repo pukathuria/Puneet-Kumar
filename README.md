@@ -40,6 +40,10 @@ Below are some of my most recent projects
 
 * [Linear Search](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/LinearSearch.playground)
 
+* [Search element in sorted matrix](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/SearchElementInSortedMatrix.playground)
+
+* [Count Occurance of SubString In String Search](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/CountOccuranceofSubStringinString.playground)
+
 Expert Skill : iOS, Swift, Objective C, Backbase
 
 Worked on Fintech, Food & Beverage, Healthcare and Aviation industry projects. I always eager to solve complex problems. 

@@ -44,6 +44,14 @@ Below are some of my most recent projects
 
 * [Count Occurance of SubString In String Search](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/CountOccuranceofSubStringinString.playground)
 
+* [FizzBuzz Problem](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/FizzProblem.playground)
+
+* [Good Pair](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/GoodPair.playground)
+
+* [SmallestSubarrayContainingMinimumAndMaximumValue](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/SmallestSubarrayContainingMinimumAndMaximumValue.playground)
+
+* [Sort and array without any sort alogrithm](https://github.com/pukathuria/Puneet-Kumar/tree/main/Data%20Structure/Algorithms/SortAnArrayWithoutAnySortAlgo.playground)
+
 Expert Skill : iOS, Swift, Objective C, Backbase
 
 Worked on Fintech, Food & Beverage, Healthcare and Aviation industry projects. I always eager to solve complex problems. 

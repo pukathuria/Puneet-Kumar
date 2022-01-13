@@ -1,4 +1,6 @@
-  func twoNumberSum(_ array: inout [Int], _ targetSum: Int) -> [Int] {
+// Created by Puneet Kumar on 13/01/22.
+
+func twoNumberSum(_ array: inout [Int], _ targetSum: Int) -> [Int] {
     // Write your code here.
         
         var dictPossibleMatch = [Int:Bool]()
